@@ -1,0 +1,23 @@
+{
+  "name": "pnwexploration",
+  "version": "1.0.0",
+  "description": "web app to organize data specific to PNW",
+  "homepage": "https://github.com/siobahnv/PNWexploration#readme",
+  "bugs": {
+    "url": "https://github.com/siobahnv/PNWexploration/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siobahnv/PNWexploration.git"
+  },
+  "license": "ISC",
+  "author": "Heather Ransome",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
