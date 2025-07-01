@@ -6,6 +6,8 @@ Other possible inspirations and potential integrations: <br>
 - Foursquare/Swarm
 - TripAdvisor
 - Social media integration (ie. Facebook)
+- Yelp
+- Google Maps: Latest in the area
 
 ## Feature ideas
 - Bucket List (or Guides): 
