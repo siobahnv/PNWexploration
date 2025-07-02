@@ -8,6 +8,7 @@ Other possible inspirations and potential integrations: <br>
 - Social media integration (ie. Facebook)
 - Yelp
 - Google Maps: Latest in the area
+- Meetup & Eventbrite
 
 ## Feature ideas
 - Bucket List (or Guides): 
