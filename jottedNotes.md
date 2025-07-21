@@ -24,3 +24,5 @@ https://www.instagram.com/reel/DC-ZQuFSz04/?igsh=b3M0dDlrNW93bDds <br>
 https://www.oregonlive.com/entertainment/2025/06/can-a-fantastical-immersive-aquarium-bring-families-back-into-downtown-portland.html?outputType=amp <br>
 https://www.pinestreetpdx.com/ <br>
 https://www.hereisoregon.com/people/2024/06/how-recycled-lightbulbs-filled-with-rain-have-created-a-legacy-on-the-oregon-coast.html <br>
+https://www.oregonlive.com/living/2023/12/hillsboros-drive-thru-light-display-lightopia-was-a-pandemic-project-now-its-a-tradition.html?outputType=amp <br>
+https://thegaragefoodcarts.com/ <br>
